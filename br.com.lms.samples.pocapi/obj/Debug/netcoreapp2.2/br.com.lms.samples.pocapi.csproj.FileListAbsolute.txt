@@ -1,0 +1,14 @@
+C:\Users\moura\source\repos\br.com.lms.samples.pocapi\br.com.lms.samples.pocapi\bin\Debug\netcoreapp2.2\br.com.lms.samples.pocapi.deps.json
+C:\Users\moura\source\repos\br.com.lms.samples.pocapi\br.com.lms.samples.pocapi\bin\Debug\netcoreapp2.2\br.com.lms.samples.pocapi.runtimeconfig.json
+C:\Users\moura\source\repos\br.com.lms.samples.pocapi\br.com.lms.samples.pocapi\bin\Debug\netcoreapp2.2\br.com.lms.samples.pocapi.runtimeconfig.dev.json
+C:\Users\moura\source\repos\br.com.lms.samples.pocapi\br.com.lms.samples.pocapi\bin\Debug\netcoreapp2.2\br.com.lms.samples.pocapi.dll
+C:\Users\moura\source\repos\br.com.lms.samples.pocapi\br.com.lms.samples.pocapi\bin\Debug\netcoreapp2.2\br.com.lms.samples.pocapi.pdb
+C:\Users\moura\source\repos\br.com.lms.samples.pocapi\br.com.lms.samples.pocapi\obj\Debug\netcoreapp2.2\br.com.lms.samples.pocapi.csproj.CoreCompileInputs.cache
+C:\Users\moura\source\repos\br.com.lms.samples.pocapi\br.com.lms.samples.pocapi\obj\Debug\netcoreapp2.2\br.com.lms.samples.pocapi.RazorAssemblyInfo.cache
+C:\Users\moura\source\repos\br.com.lms.samples.pocapi\br.com.lms.samples.pocapi\obj\Debug\netcoreapp2.2\br.com.lms.samples.pocapi.RazorAssemblyInfo.cs
+C:\Users\moura\source\repos\br.com.lms.samples.pocapi\br.com.lms.samples.pocapi\obj\Debug\netcoreapp2.2\br.com.lms.samples.pocapi.AssemblyInfoInputs.cache
+C:\Users\moura\source\repos\br.com.lms.samples.pocapi\br.com.lms.samples.pocapi\obj\Debug\netcoreapp2.2\br.com.lms.samples.pocapi.AssemblyInfo.cs
+C:\Users\moura\source\repos\br.com.lms.samples.pocapi\br.com.lms.samples.pocapi\obj\Debug\netcoreapp2.2\br.com.lms.samples.pocapi.RazorTargetAssemblyInfo.cache
+C:\Users\moura\source\repos\br.com.lms.samples.pocapi\br.com.lms.samples.pocapi\obj\Debug\netcoreapp2.2\br.com.lms.samples.pocapi.dll
+C:\Users\moura\source\repos\br.com.lms.samples.pocapi\br.com.lms.samples.pocapi\obj\Debug\netcoreapp2.2\br.com.lms.samples.pocapi.pdb
+C:\Users\moura\source\repos\br.com.lms.samples.pocapi\br.com.lms.samples.pocapi\obj\Debug\netcoreapp2.2\br.com.lms.samples.pocapi.csprojAssemblyReference.cache
